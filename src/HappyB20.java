@@ -3,5 +3,7 @@ public class HappyB20 {
         System.out.println("B20 is alwasy happy");
 
         System.out.println("hey b20");
+
+        System.out.println("lakdjsfk;");
     }
 }
